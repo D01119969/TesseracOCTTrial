@@ -1,3 +1,5 @@
+// This file is a test of Tesserac OCR. Did nt work very well. 
+//
 package com.tesserac;
 
 import java.awt.AWTException;
