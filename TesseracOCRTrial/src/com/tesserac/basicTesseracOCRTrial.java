@@ -4,9 +4,9 @@ package com.tesserac;
 
 import java.awt.AWTException;
 import java.awt.Robot;
-import java.io.File;
+
 import java.util.ArrayList;
-import java.util.Map;
+
 
 import org.sikuli.basics.Settings;
 import org.sikuli.script.FindFailed;
@@ -14,7 +14,7 @@ import org.sikuli.script.Location;
 import org.sikuli.script.Region;
 import org.sikuli.script.Screen;
 
-import net.sourceforge.tess4j.*;
+
 
 public class basicTesseracOCRTrial {
 
@@ -110,7 +110,7 @@ public class basicTesseracOCRTrial {
 				//screen.findText(requestedRole).click();
 				System.out.println("FOUND String [" + requestedRole + "] at Coord [" + xCoordMatch + "," + yCoordMatch + "]");
 			} catch (FindFailed e1) {
-				// TODO Auto-generated catch block
+
 				System.out.println("NOT FOUND String [" + requestedRole + "]");
 				//e1.printStackTrace();
 			}        	
