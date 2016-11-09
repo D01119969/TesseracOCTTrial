@@ -17,6 +17,10 @@ import org.sikuli.script.Screen;
 
 
 public class basicTesseracOCRTrial {
+	//
+	//Interupted Changes
+	//
+	///
 
 	public static void main(String[] args) throws FindFailed, AWTException, InterruptedException {
 		
