@@ -13,8 +13,11 @@ import org.sikuli.script.FindFailed;
 import org.sikuli.script.Location;
 import org.sikuli.script.Region;
 import org.sikuli.script.Screen;
-
-
+//
+//
+// ADDED THESE COMMENTS TO BRANCHING TRIAL
+//
+//
 
 public class basicTesseracOCRTrial {
 
