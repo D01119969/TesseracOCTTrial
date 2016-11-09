@@ -13,14 +13,21 @@ import org.sikuli.script.FindFailed;
 import org.sikuli.script.Location;
 import org.sikuli.script.Region;
 import org.sikuli.script.Screen;
-
-
+//
+//
+// ADDED THESE COMMENTS TO BRANCHING TRIAL
+//
+//
 
 public class basicTesseracOCRTrial {
+<<<<<<< HEAD
 	//
 	//Interupted Changes
 	//
 	///
+=======
+	// Another COmment in same area as different branch. 
+>>>>>>> refs/heads/BranchingTrial
 
 	public static void main(String[] args) throws FindFailed, AWTException, InterruptedException {
 		
