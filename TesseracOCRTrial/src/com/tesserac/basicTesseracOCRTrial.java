@@ -20,6 +20,7 @@ import org.sikuli.script.Screen;
 //
 
 public class basicTesseracOCRTrial {
+	// Another COmment in same area as different branch. 
 
 	public static void main(String[] args) throws FindFailed, AWTException, InterruptedException {
 		
